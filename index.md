@@ -27,4 +27,5 @@ check editing data
 
 'git config --global user.name "NAME"'
 
-giligulu
+'git pull origin main'
+download 
